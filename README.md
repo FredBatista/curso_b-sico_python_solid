@@ -1,2 +1,2 @@
-# curso_b-sico_python_solid
+# curso_básico_python_solid
 Aulas do curso Básico de Python
